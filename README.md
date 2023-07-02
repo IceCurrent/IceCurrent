@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icecurrent&label=Profile%20views&color=0e75b6&style=flat" alt="icecurrent" /> </p>
 
-- 🌱 I’m currently learning *Backend Development using Golang*
+- 🌱 I’m currently *Grinding Algorithms*
 
 - 📫 How to reach me **shreyansh.yashi@gmail.com**
 
