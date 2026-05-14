@@ -1,13 +1,18 @@
-<h1 align="center">👋 Hi, I'm Shreyansh</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:21262d&height=180&section=header&text=Shreyansh%20Kumar%20Sharma&fontSize=40&fontColor=f0f6fc)
 
-<p align="center">
-Welcome to my GitHub. I'm a graduate of IIT Kharagpur (Maths & Computing), currently pursuing a master's in Financial Mathematics at NC State. Aspiring quant, mostly working through derivatives pricing, stochastic calculus, and numerical methods.
-</p>
+## 👋 Welcome
 
-<p align="center">
-📫 <b>shreyansh.yashi@gmail.com</b>
-</p>
+I'm a graduate of IIT Kharagpur in Mathematics & Computing, currently pursuing a master's in Financial Mathematics at NC State University. Aspiring quant, mostly working through derivatives pricing, stochastic calculus, and numerical methods.
 
-<p align="center">
-<a href="https://linkedin.com/in/shreyansh-kumar-sharma-63a6aa223/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+## 🛠 Skills
+
+**Languages:** Python, C++, SQL  
+**Libraries:** NumPy, Pandas, SciPy, statsmodels, PyTorch  
+**Tools:** Git, Bloomberg Terminal, LaTeX  
+**Focus areas:** stochastic calculus, derivatives pricing, Monte Carlo, PDE methods
+
+## 📫 Contact
+
+- **Email:** sksharm4@ncsu.edu, shreyansh.yashi@gmail.com
+- **Phone:** +1 (919) 292-9498
+- **LinkedIn:** [shreyansh-kumar-sharma](https://linkedin.com/in/shreyansh-kumar-sharma-63a6aa223/)
