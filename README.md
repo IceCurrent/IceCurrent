@@ -2,7 +2,7 @@
 
 ## Welcome
 
-I'm a graduate of IIT Kharagpur in Mathematics & Computing, currently pursuing a master's in Financial Mathematics at NC State University. Aspiring quant, mostly working through derivatives pricing, stochastic calculus, and numerical methods.
+I'm a graduate of IIT Kharagpur in Mathematics & Computing, currently pursuing a master's in Financial Mathematics at NC State University. Aspiring quant, mostly working through derivatives pricing, stochastic calculus, numerical methods, and machine learning.
 
 ## Skills
 
